@@ -132,9 +132,49 @@ border-radius: 8px;
 padding: .4em .75em .3em;
 text-decoration: none;
 }
+.btn:hover{
+ background-color: #666;
+ color: #dbd6cf;
+}
+.btn-small:hover{
+ background-color: #666;
+ color: #dbd6cf;
+}
+}
+.btn-subtle-small:hover{
+ background-color: #666;
+ color: #dbd6cf;
+}
 
-.div{
- click.button:hover{
- background-color: #cc1465;
+}
+.btn-ghost-small{
+ background-color: #666;
+ color: #dbd6cf;
+}
+
+}
+.btn-warning-small:hover{
+ background-color: #666;
+ color: #dbd6cf;
+}
+
+}
+.btn-big:hover{
+ background-color: #666;
+ color: #dbd6cf;
+}
+}
+.subtle-btn-big:hover{
+ background-color: #666;
+ color: #dbd6cf;
+}
+}
+.btn-ghost-big:hover{
+ background-color: #666;
+ color: #dbd6cf;
+}
+}
+.btn-warning-big:hover{
+ background-color: #666;
  color: #dbd6cf;
 }
