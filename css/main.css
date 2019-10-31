@@ -11,3 +11,112 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+.btn{
+
+background-color: #000;
+color: #fff;
+font-size: 1.125rem;
+border-width: 3px;
+border-top: 3px;
+border-radius: 8px;
+padding: .4em .75em .3em;
+text-decoration: none;
+}
+
+.btn-subtle{
+  background-color: #ccc;
+  color: #fff;
+  font-size: 1.125rem;
+  border-top: 3px;
+  border-radius: 8px;
+  padding: .4em .75em .3em
+}
+
+.btn-ghost{
+background-color: #fff;
+color: #fff;
+border-style: solid;
+border-color: #000;
+border-width: 3px;
+padding: .4em .75em .3em
+}
+
+.btn-warning{
+background-color: #f33;
+color: #fff;
+border-top: 3px;
+border-radius: 8px;
+padding: .4em .75em .3em
+}
+
+.btn-big{
+background-color: #333;
+color: #fff;
+font-size: 1.5rem;
+border-top: 3px;
+border-radius: 8px;
+padding: .4em .75em .3em
+}
+
+.btn-small{
+background-color: #333;
+color: #fff;
+border-top: 3px;
+border-radius: 8px;
+padding: .4em .75em .3em
+}
+
+.btn-subtle-small{
+  background-color: #333;
+  color: #fff;
+  border-top: 3px;
+  border-radius: 8px;
+  padding: .4em .75em .3em
+}
+
+.btn-ghost-small{
+  background-color: #fff;
+  color: #fff;
+  border-top: 3px;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #000;
+  border-width: 3px;
+  padding: .4em .75em .3em
+}
+
+.btn-warning-small{
+background-color: #f33;
+color: #fff;
+border-top: 3px;
+border-radius: 8px;
+padding: .4em .75em .3em
+}
+
+.subtle-btn-big{
+background-color: #ccc;
+color: #fff;
+font-size: 1.5rem;
+border-top: 3px;
+border-radius: 8px;
+padding: .4em .75em .3em
+}
+
+.btn-ghost-big{
+background-color: #ccc;
+color: #fff;
+font-size: 1.5rem;
+border-top: 3px;
+border-radius: 8px;
+padding: .4em .75em .3em
+}
+
+.btn-warning-big{
+background-color: #f33;
+color: #fff;
+font-size: 1.5rem;
+border-top: 3px;
+border-radius: 8px;
+padding: .4em .75em .3em
+}
