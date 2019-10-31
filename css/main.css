@@ -30,16 +30,19 @@ text-decoration: none;
   font-size: 1.125rem;
   border-top: 3px;
   border-radius: 8px;
-  padding: .4em .75em .3em
+  padding: .4em .75em .3em;
+  text-decoration: none;
 }
 
 .btn-ghost{
 background-color: #fff;
-color: #fff;
+color: #000;
 border-style: solid;
+border-radius: 8px;
 border-color: #000;
 border-width: 3px;
-padding: .4em .75em .3em
+padding: .4em .75em .3em;
+text-decoration: none;
 }
 
 .btn-warning{
@@ -47,7 +50,8 @@ background-color: #f33;
 color: #fff;
 border-top: 3px;
 border-radius: 8px;
-padding: .4em .75em .3em
+padding: .4em .75em .3em;
+text-decoration: none;
 }
 
 .btn-big{
@@ -56,7 +60,8 @@ color: #fff;
 font-size: 1.5rem;
 border-top: 3px;
 border-radius: 8px;
-padding: .4em .75em .3em
+padding: .4em .75em .3em;
+text-decoration: none;
 }
 
 .btn-small{
@@ -64,26 +69,29 @@ background-color: #333;
 color: #fff;
 border-top: 3px;
 border-radius: 8px;
-padding: .4em .75em .3em
+padding: .4em .75em .3em;
+text-decoration: none;
 }
 
 .btn-subtle-small{
-  background-color: #333;
+  background-color: #ccc;
   color: #fff;
   border-top: 3px;
   border-radius: 8px;
-  padding: .4em .75em .3em
+  padding: .4em .75em .3em;
+  text-decoration: none;
 }
 
 .btn-ghost-small{
   background-color: #fff;
-  color: #fff;
+  color: #000;
   border-top: 3px;
   border-radius: 8px;
   border-style: solid;
   border-color: #000;
   border-width: 3px;
-  padding: .4em .75em .3em
+  padding: .4em .75em .3em;
+  text-decoration: none;
 }
 
 .btn-warning-small{
@@ -91,7 +99,8 @@ background-color: #f33;
 color: #fff;
 border-top: 3px;
 border-radius: 8px;
-padding: .4em .75em .3em
+padding: .4em .75em .3em;
+text-decoration: none;
 }
 
 .subtle-btn-big{
@@ -100,7 +109,8 @@ color: #fff;
 font-size: 1.5rem;
 border-top: 3px;
 border-radius: 8px;
-padding: .4em .75em .3em
+padding: .4em .75em .3em;
+text-decoration: none;
 }
 
 .btn-ghost-big{
@@ -109,7 +119,8 @@ color: #fff;
 font-size: 1.5rem;
 border-top: 3px;
 border-radius: 8px;
-padding: .4em .75em .3em
+padding: .4em .75em .3em;
+text-decoration: none;
 }
 
 .btn-warning-big{
@@ -118,5 +129,12 @@ color: #fff;
 font-size: 1.5rem;
 border-top: 3px;
 border-radius: 8px;
-padding: .4em .75em .3em
+padding: .4em .75em .3em;
+text-decoration: none;
+}
+
+.div{
+ click.button:hover{
+ background-color: #cc1465;
+ color: #dbd6cf;
 }
