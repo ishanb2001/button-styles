@@ -52,18 +52,6 @@ font-size: .875rem;
 font-size: .875rem;
 }
 
-.btn-ghost-small{
-  background-color: #fff;
-  color: #000;
-  border-top: 3px;
-  border-radius: 8px;
-  border-style: solid;
-  border-color: #000;
-  border-width: 3px;
-  padding: .4em .75em .3em;
-  text-decoration: none;
-}
-
 .btn-warning-small{
 background-color: #f33;
 color: #fff;
