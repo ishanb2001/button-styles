@@ -112,3 +112,15 @@ text-decoration: none;
 .btn-primary:hover{
  background-color: #000;
 }
+
+.btn-subtle:hover{
+  background-color: #666;
+}
+
+.btn-warning:hover{
+  background-color: #933;
+}
+
+.btn-ghost:hover{
+  background-color: #333;
+}
