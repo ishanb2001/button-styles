@@ -44,22 +44,15 @@ color: #fff;
 background-color: #333;
 color: #fff;
 font-size: 1.5rem;
-border-top: 3px;
-border-radius: 8px;
-padding: .4em .75em .3em;
-text-decoration: none;
 }
 
 .btn-small{
 background-color: #333;
 color: #fff;
-border-top: 3px;
-border-radius: 8px;
-padding: .4em .75em .3em;
-text-decoration: none;
+font-size: .875rem;
 }
 
-.btn-subtle-small{
+.btn-small{
   background-color: #ccc;
   color: #fff;
   border-top: 3px;
