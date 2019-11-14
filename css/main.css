@@ -1,7 +1,6 @@
 html {
   box-sizing: border-box;
   font: normal 100%/1.5 sans-serif;
-  line-height: 1.5;
 }
 
 *, *::before, *::after {
@@ -15,7 +14,8 @@ div {
 
 .btn{
 
-background-color: #000;
+background-color: #333;
+display: inline-block;
 color: #fff;
 font-size: 1.125rem;
 border-width: 3px;
