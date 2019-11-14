@@ -28,31 +28,16 @@ text-decoration: none;
 .btn-subtle{
   background-color: #ccc;
   color: #fff;
-  font-size: 1.125rem;
-  border-top: 3px;
-  border-radius: 8px;
-  padding: .4em .75em .3em;
-  text-decoration: none;
 }
 
 .btn-ghost{
 background-color: #fff;
 color: #000;
-border-style: solid;
-border-radius: 8px;
-border-color: #000;
-border-width: 3px;
-padding: .4em .75em .3em;
-text-decoration: none;
 }
 
 .btn-warning{
 background-color: #f33;
 color: #fff;
-border-top: 3px;
-border-radius: 8px;
-padding: .4em .75em .3em;
-text-decoration: none;
 }
 
 .btn-big{
