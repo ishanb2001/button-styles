@@ -12,101 +12,68 @@ div {
   text-align: center;
 }
 
-.btn{
+.btn {
 
-background-color: #333;
-display: inline-block;
-color: #fff;
-font-size: 1.125rem;
-border-width: 3px;
-border-top: 3px;
-border-radius: 8px;
-padding: .4em .75em .3em;
-text-decoration: none;
+  background-color: #333;
+  display: inline-block;
+  color: #fff;
+  font-size: 1.125rem;
+  border-width: 3px;
+  border-top: 3px;
+  border-radius: 8px;
+  padding: .4em .75em .3em;
+  text-decoration: none;
 }
 
-.btn-subtle{
+.btn-subtle {
   background-color: #ccc;
   color: #fff;
 }
 
-.btn-ghost{
-background-color: #fff;
-color: #000;
+.btn-ghost {
+  background-color: #fff;
+  color: #000;
 }
 
-.btn-warning{
-background-color: #f33;
-color: #fff;
+.btn-warning {
+  background-color: #f33;
+  color: #fff;
 }
 
-.btn-big{
-font-size: 1.5rem;
+.btn-big {
+  font-size: 1.5rem;
 }
 
-.btn-small{
-font-size: .875rem;
+.btn-small {
+  font-size: .875rem;
 }
 
-.btn-small{
-font-size: .875rem;
+.subtle-btn-big {
+  background-color: #ccc;
+  color: #fff;
+  font-size: 1.5rem;
+  border-top: 3px;
+  border-radius: 8px;
+  padding: .4em .75em .3em;
+  text-decoration: none;
 }
 
-.btn-warning-small{
-background-color: #f33;
-color: #fff;
-border-top: 3px;
-border-radius: 8px;
-padding: .4em .75em .3em;
-text-decoration: none;
-}
-
-.subtle-btn-big{
-background-color: #ccc;
-color: #fff;
-font-size: 1.5rem;
-border-top: 3px;
-border-radius: 8px;
-padding: .4em .75em .3em;
-text-decoration: none;
-}
-
-.btn-ghost-big{
-background-color: #ccc;
-color: #fff;
-font-size: 1.5rem;
-border-top: 3px;
-border-radius: 8px;
-padding: .4em .75em .3em;
-text-decoration: none;
-}
-
-.btn-warning-big{
-background-color: #f33;
-color: #fff;
-font-size: 1.5rem;
-border-top: 3px;
-border-radius: 8px;
-padding: .4em .75em .3em;
-text-decoration: none;
-}
-
-.btn:hover{
+.btn:hover {
   background-color: #333;
 }
 
-.btn-primary:hover{
- background-color: #000;
+.btn-primary:hover {
+  background-color: #000;
 }
 
-.btn-subtle:hover{
+.btn-subtle:hover {
   background-color: #666;
 }
 
-.btn-warning:hover{
+.btn-warning:hover {
   background-color: #933;
 }
 
-.btn-ghost:hover{
+.btn-ghost:hover {
   background-color: #333;
 }
