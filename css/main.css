@@ -18,6 +18,7 @@ div {
   display: inline-block;
   color: #fff;
   font-size: 1.125rem;
+  border: 3px solid;
   border-width: 3px;
   border-top: 3px;
   border-radius: 8px;
@@ -46,16 +47,6 @@ div {
 
 .btn-small {
   font-size: .875rem;
-}
-
-.subtle-btn-big {
-  background-color: #ccc;
-  color: #fff;
-  font-size: 1.5rem;
-  border-top: 3px;
-  border-radius: 8px;
-  padding: .4em .75em .3em;
-  text-decoration: none;
 }
 
 .btn:hover {
